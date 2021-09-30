@@ -1,0 +1,55 @@
+extends base
+
+block content
+    main.main
+        .login-form
+            h2.heading-secondary.ma-bt-lg Add a new book
+            form.form.form--addBook
+                .form__group
+                    label.form__label(for='name') Name of book
+                    input#name.form__input(type='text', placeholder="Book name", autocomplete='name', required)
+                .form__group
+                    label.form__label(for='author') Author
+                    input#author.form__input(type='text', placeholder="Author of book", autocomplete='author', required)
+                    label.form__label(for='price') Price
+                    input#price.form__input(type='number', placeholder="price of book", autocomplete='price', required)
+                .form__group
+                    label.form__label(for='quantity') Book's quantity
+                    input#quantity.form__input(type='number', placeholder="Total number of available books", autocomplete='quantity', required)
+                .form__group
+                    label.form__label(for='summary') Book's summary
+                    input#summary.form__input(type='text', placeholder="Total number of available books", autocomplete='summary', required)
+                .form__group
+                    label.form__label(for='description') Book's description
+                    input#description.form__input(type='text', placeholder="Total number of available books", autocomplete='description', required)
+
+                .form__group.ma-bt-md
+                    label.form__label(for='availableFor') Available for
+                    label.radio-container Sell
+                        input#sell(type='radio' checked='checked' name='radio' value='sell')
+                        span.checkmark
+                    label.radio-container Exchange
+                        input#exchange(type='radio' name='radio' value='exchange')
+                        span.checkmark
+                    label.radio-container Rent
+                        input#rent(type='radio' name='radio' value='rent')
+                        span.checkmark
+
+                //- .form__group.ma-bt-md
+                //-     label.form__label(for='condition') Book's condition
+                //-     label.radio-container New
+                //-         input#new(type='radio' checked='checked' name='radio' value='new')
+                //-         span.checkmark
+                //-     label.radio-container Used
+                //-         input#used(type='radio' name='radio' value='used')
+                //-         span.checkmark
+
+                .form__group.ma-bt-md
+                    label.form__label(for='imageCover') Main Photo
+                    input#imageCover.form__input(type='file', placeholder='Choose main image of book')
+                .form__group.ma-bt-md
+                    label.form__label(for='images') Other Images - 3 only
+                    input#images.form__input(type='file', placeholder='Choose 3 images of book' multiple)
+
+                .form__group
+                    button.btn.btn--green Add Book

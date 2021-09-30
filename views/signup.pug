@@ -1,0 +1,32 @@
+extends base
+
+block content
+    main.main
+        .login-form
+            h2.heading-secondary.ma-bt-lg Create an account
+            form.form.form--signup
+                .form__group
+                    label.form__label(for='name') Name
+                    input#name.form__input(type='text', placeholder="What's your name?", autocomplete='name', required)
+                .form__group
+                    label.form__label(for='email') Email address
+                    input#email.form__input(type='email', placeholder='you@example.com', autocomplete='email', required)
+                .form__group.ma-bt-md
+                    label.form__label(for='password') Password
+                    input#password.form__input(type='password', placeholder='••••••••', required, minlength='8', autocomplete='current-password')
+                .form__group.ma-bt-md
+                    label.form__label(for='password-confirm') Confirm your password
+                    input#passwordConfirm.form__input(type='password', placeholder='••••••••', required, minlength='8', autocomplete='current-password')
+                //- .form__group.ma-bt-md
+                //-     label.form__label(for='photo') Your Photo
+                //-     input#photo.form__input(type='file', placeholder='Choose an image')
+                .form__group.ma-bt-md
+                    label.form__label(for='role') User Type
+                    label.radio-container Buyer
+                        input#buyer(type='radio' checked='checked' name='radio' value='buyer')
+                        span.checkmark
+                    label.radio-container Seller
+                        input#seller(type='radio' name='radio' value='seller')
+                        span.checkmark
+                .form__group
+                    button.btn.btn--green Sign up

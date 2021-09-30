@@ -1,0 +1,49 @@
+extends base
+
+block content 
+  main.main 
+    .card-container
+      each book in books
+        .card
+          - if(book.availableFor)
+            div(class=`book--${book.availableFor}`)
+              h5= `${book.availableFor} available`
+          .card__header
+            .card__picture
+              .card__picture-overlay &nbsp;
+              img.card__picture-img(src=`/img/books/${book.imageCover}`, alt=`${book.name}`)
+            h3.heading-tertirary
+              span= book.name
+
+          .card__details
+            h4.card__sub-heading= `Author : ${book.author}` 
+            p.card__text= book.summary
+            .card__data
+              svg.card__icon
+                use(xlink:href='/img/icons.svg#icon-map-pin')
+              span= book.location.description
+            .card__data
+              svg.card__icon
+                use(xlink:href='/img/icons.svg#icon-calendar')
+              span= book.createdAt.toLocaleString('en-us', {month: 'long', year: 'numeric'})
+            .card__data
+              svg.card__icon
+                use(xlink:href='/img/icons.svg#icon-layers')
+              span= `${book.quantity} copies`
+            .card__data
+              svg.card__icon
+                use(xlink:href='/img/icons.svg#icon-book-open')
+              span= book.condition
+
+          .card__footer
+            p
+              span.card__footer-value= `Rs. ${book.price}`
+              | 
+              span.card__footer-text=`${(book.availableFor === 'rent' ? 'per week' : 'per book')}`
+            p.card__ratings
+              span.card__footer-value= book.ratingsAverage
+              | 
+              span.card__footer-text= `rating (${book.ratingsQuantity})`
+            a.btn.btn--green.btn--small(href=`/book/${book.id}`) Details
+
+            

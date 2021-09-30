@@ -1,0 +1,39 @@
+doctype 
+html 
+  head 
+    block head
+      meta(charset='UTF-8')
+      meta(name='viewport' content='width=device-width, initial-scale=1')
+      title Readers Overflow | #{title}
+      link(rel='stylesheet' href='/css/style.css')
+      link(rel='shortcut icon' type='image/png' href='/img/favicon-m.png')
+      link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300,300i,700')
+      script(src= 'https://js.stripe.com/v3/')
+ 
+  body 
+    //Header
+    include _header
+    
+    //Content
+    block content 
+      h1 This page currently has no content
+    // Footer
+    include _footer
+    //- //icons
+    //- include _icons
+  
+
+    //- script(src='/js/login.js')
+    //- script-src('unsafe-inline' 'https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js')
+    //- Content-Security-Policy: script-src-elem('unsafe-inline')
+    //- Content-Security-Policy: script-src('')
+    //- script(src='https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js')
+
+    script(src='/js/bundle.js')
+    
+
+    
+
+ 
+
+  

@@ -1,0 +1,31 @@
+header.header 
+  nav.nav.nav--tours
+    .nav__el
+      ul.main-dropdown
+        li: a(href='/') Books
+          ul.dropdown
+            li: a(href='/all/sell') For Sale
+            li: a(href='/all/rent') For Rent
+            li: a(href='/all/exchange') For Exchange
+
+
+
+    //- form.nav__search
+    //-   button.nav__search-btn 
+    //-     svg 
+    //-       use(xlink:href='/img/icons.svg#icon-search')
+    //-   input.nav__search-input(type='text' placeholder='Search books')
+  .header__logo 
+    img(src='/img/logo-white-m.png' alt= 'Readers Overflow logo')
+  nav.nav.nav--user
+    if user
+      -if(user.role === 'seller' || user.role === 'admin')
+        a.nav__el.nav__el--addBook(href="/addBook") Add Book    
+      a.nav__el.nav__el--logout Logout
+      a.nav__el(href="/me")
+        img.nav__user-img(src=`/img/users/${user.photo ? user.photo : 'default.jpg'}` alt= `Photo of ${user.name}`)
+        span= user.name.split(' ')[0]
+
+    else
+      a.nav__el(href="/login") Log in 
+      a.nav__el.nav__el--cta(href="/signup") Sign up
