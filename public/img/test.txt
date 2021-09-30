@@ -1,0 +1,535 @@
+svg 
+  use(xlink:href='img/icons.svg#icon-search')
+svg 
+  use(xlink:href='img/icons.svg#icon-activity')
+svg 
+  use(xlink:href='img/icons.svg#icon-airplay')  
+svg 
+  use(xlink:href='img/icons.svg#icon-alert-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-alert-octagon') 
+svg 
+  use(xlink:href='img/icons.svg#icon-alert-triangle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-align-center') 
+svg 
+  use(xlink:href='img/icons.svg#icon-align-justify') 
+svg 
+  use(xlink:href='img/icons.svg#icon-align-left')  
+svg 
+  use(xlink:href='img/icons.svg#icon-align-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-anchor') 
+svg 
+  use(xlink:href='img/icons.svg#icon-aperture') 
+svg 
+  use(xlink:href='img/icons.svg#icon-archive')  
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-down')  
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-down-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-down-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-down-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-left-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-right-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-up-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-up-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-arrow-up-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-at-sign')  
+svg 
+  use(xlink:href='img/icons.svg#icon-award') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bar-chart') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bar-chart-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-battery')  
+svg 
+  use(xlink:href='img/icons.svg#icon-battery-charging') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bell') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bell-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bluetooth') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bold') 
+svg 
+  use(xlink:href='img/icons.svg#icon-book') 
+svg 
+  use(xlink:href='img/icons.svg#icon-book-open') 
+svg 
+  use(xlink:href='img/icons.svg#icon-bookmark') 
+svg 
+  use(xlink:href='img/icons.svg#icon-box') 
+svg 
+  use(xlink:href='img/icons.svg#icon-briefcase') 
+svg 
+  use(xlink:href='img/icons.svg#icon-calendar') 
+svg 
+  use(xlink:href='img/icons.svg#icon-camera') 
+svg 
+  use(xlink:href='img/icons.svg#icon-camera-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cast') 
+svg 
+  use(xlink:href='img/icons.svg#icon-check') 
+svg 
+  use(xlink:href='img/icons.svg#icon-check-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-check-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevron-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevron-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevron-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevron-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevrons-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevrons-left')
+svg 
+  use(xlink:href='img/icons.svg#icon-chevrons-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chevrons-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-chrome') 
+svg 
+  use(xlink:href='img/icons.svg#icon-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-clipboard') 
+svg 
+  use(xlink:href='img/icons.svg#icon-clock') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud-drizzle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud-lightning') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud-rain') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cloud-snow') 
+svg 
+  use(xlink:href='img/icons.svg#icon-code') 
+svg 
+  use(xlink:href='img/icons.svg#icon-codepen')  
+svg 
+  use(xlink:href='img/icons.svg#icon-command')  
+svg 
+  use(xlink:href='img/icons.svg#icon-compass')  
+svg 
+  use(xlink:href='img/icons.svg#icon-copy') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-down-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-down-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-left-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-left-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-right-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-right-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-up-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-corner-up-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-cpu') 
+svg 
+  use(xlink:href='img/icons.svg#icon-credit-card') 
+svg 
+  use(xlink:href='img/icons.svg#icon-crop') 
+svg 
+  use(xlink:href='img/icons.svg#icon-crosshair') 
+svg 
+  use(xlink:href='img/icons.svg#icon-database') 
+svg 
+  use(xlink:href='img/icons.svg#icon-delete') 
+svg 
+  use(xlink:href='img/icons.svg#icon-disc') 
+svg 
+  use(xlink:href='img/icons.svg#icon-dollar-sign') 
+svg 
+  use(xlink:href='img/icons.svg#icon-download') 
+svg 
+  use(xlink:href='img/icons.svg#icon-download-cloud') 
+svg 
+  use(xlink:href='img/icons.svg#icon-droplet')  
+svg 
+  use(xlink:href='img/icons.svg#icon-edit') 
+svg 
+  use(xlink:href='img/icons.svg#icon-edit-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-edit-3') 
+svg 
+  use(xlink:href='img/icons.svg#icon-external-link')
+svg 
+  use(xlink:href='img/icons.svg#icon-eye') 
+svg 
+  use(xlink:href='img/icons.svg#icon-eye-off')  
+svg 
+  use(xlink:href='img/icons.svg#icon-facebook') 
+svg 
+  use(xlink:href='img/icons.svg#icon-fast-forward') 
+svg 
+  use(xlink:href='img/icons.svg#icon-feather')  
+svg 
+  use(xlink:href='img/icons.svg#icon-file') 
+svg 
+  use(xlink:href='img/icons.svg#icon-file-minus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-file-plus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-file-text') 
+svg 
+  use(xlink:href='img/icons.svg#icon-film') 
+svg 
+  use(xlink:href='img/icons.svg#icon-filter') 
+svg 
+  use(xlink:href='img/icons.svg#icon-flag') 
+svg 
+  use(xlink:href='img/icons.svg#icon-folder') 
+svg 
+  use(xlink:href='img/icons.svg#icon-folder-minus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-folder-plus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-gift') 
+svg 
+  use(xlink:href='img/icons.svg#icon-git-branch') 
+svg 
+  use(xlink:href='img/icons.svg#icon-git-commit')  
+svg 
+  use(xlink:href='img/icons.svg#icon-git-merge') 
+svg 
+  use(xlink:href='img/icons.svg#icon-git-pull-request') 
+svg 
+  use(xlink:href='img/icons.svg#icon-github') 
+svg 
+  use(xlink:href='img/icons.svg#icon-gitlab') 
+svg 
+  use(xlink:href='img/icons.svg#icon-globe') 
+svg 
+  use(xlink:href='img/icons.svg#icon-grid') 
+svg 
+  use(xlink:href='img/icons.svg#icon-hard-drive') 
+svg 
+  use(xlink:href='img/icons.svg#icon-hash') 
+svg 
+  use(xlink:href='img/icons.svg#icon-headphones')
+svg 
+  use(xlink:href='img/icons.svg#icon-heart') 
+svg 
+  use(xlink:href='img/icons.svg#icon-help-circle')
+svg 
+  use(xlink:href='img/icons.svg#icon-home') 
+svg 
+  use(xlink:href='img/icons.svg#icon-image') 
+svg 
+  use(xlink:href='img/icons.svg#icon-inbox') 
+svg 
+  use(xlink:href='img/icons.svg#icon-info') 
+svg 
+  use(xlink:href='img/icons.svg#icon-instagram') 
+svg 
+  use(xlink:href='img/icons.svg#icon-italic') 
+svg 
+  use(xlink:href='img/icons.svg#icon-layers') 
+svg 
+  use(xlink:href='img/icons.svg#icon-layout') 
+svg 
+  use(xlink:href='img/icons.svg#icon-life-buoy') 
+svg 
+  use(xlink:href='img/icons.svg#icon-link') 
+svg 
+  use(xlink:href='img/icons.svg#icon-link-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-linkedin') 
+svg 
+  use(xlink:href='img/icons.svg#icon-list') 
+svg 
+  use(xlink:href='img/icons.svg#icon-loader') 
+svg 
+  use(xlink:href='img/icons.svg#icon-lock') 
+svg 
+  use(xlink:href='img/icons.svg#icon-log-in') 
+svg 
+  use(xlink:href='img/icons.svg#icon-log-out')  
+svg 
+  use(xlink:href='img/icons.svg#icon-mail') 
+svg 
+  use(xlink:href='img/icons.svg#icon-map') 
+svg 
+  use(xlink:href='img/icons.svg#icon-map-pin')  
+svg 
+  use(xlink:href='img/icons.svg#icon-maximize') 
+svg 
+  use(xlink:href='img/icons.svg#icon-maximize-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-menu') 
+svg 
+  use(xlink:href='img/icons.svg#icon-message-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-message-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-mic') 
+svg 
+  use(xlink:href='img/icons.svg#icon-mic-off')  
+svg 
+  use(xlink:href='img/icons.svg#icon-minimize') 
+svg 
+  use(xlink:href='img/icons.svg#icon-minimize-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-minus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-minus-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-minus-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-monitor')  
+svg 
+  use(xlink:href='img/icons.svg#icon-moon') 
+svg 
+  use(xlink:href='img/icons.svg#icon-more-horizontal') viewBox=
+svg 
+  use(xlink:href='img/icons.svg#icon-more-vertical') 
+svg 
+  use(xlink:href='img/icons.svg#icon-move') 
+svg 
+  use(xlink:href='img/icons.svg#icon-music') 
+svg 
+  use(xlink:href='img/icons.svg#icon-navigation') 
+svg 
+  use(xlink:href='img/icons.svg#icon-navigation-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-octagon')  
+svg 
+  use(xlink:href='img/icons.svg#icon-package')  
+svg 
+  use(xlink:href='img/icons.svg#icon-paperclip') 
+svg 
+  use(xlink:href='img/icons.svg#icon-pause') 
+svg 
+  use(xlink:href='img/icons.svg#icon-pause-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-percent')  
+svg 
+  use(xlink:href='img/icons.svg#icon-phone') 
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-call') 
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-forwarded') viewBox=
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-incoming') 
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-missed') 
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-phone-outgoing') 
+svg 
+  use(xlink:href='img/icons.svg#icon-pie-chart') 
+svg 
+  use(xlink:href='img/icons.svg#icon-play') 
+svg 
+  use(xlink:href='img/icons.svg#icon-play-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-plus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-plus-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-plus-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-pocket') 
+svg 
+  use(xlink:href='img/icons.svg#icon-power') 
+svg 
+  use(xlink:href='img/icons.svg#icon-printer')  
+svg 
+  use(xlink:href='img/icons.svg#icon-radio') 
+svg 
+  use(xlink:href='img/icons.svg#icon-refresh-ccw') 
+svg 
+  use(xlink:href='img/icons.svg#icon-refresh-cw') 
+svg 
+  use(xlink:href='img/icons.svg#icon-repeat') 
+svg 
+  use(xlink:href='img/icons.svg#icon-rewind') 
+svg 
+  use(xlink:href='img/icons.svg#icon-rotate-ccw') 
+svg 
+  use(xlink:href='img/icons.svg#icon-rotate-cw') 
+svg 
+  use(xlink:href='img/icons.svg#icon-rss') 
+svg 
+  use(xlink:href='img/icons.svg#icon-save') 
+svg 
+  use(xlink:href='img/icons.svg#icon-scissors') 
+svg 
+  use(xlink:href='img/icons.svg#icon-search') 
+svg 
+  use(xlink:href='img/icons.svg#icon-send') 
+svg 
+  use(xlink:href='img/icons.svg#icon-server') 
+svg 
+  use(xlink:href='img/icons.svg#icon-settings') 
+svg 
+  use(xlink:href='img/icons.svg#icon-share') 
+svg 
+  use(xlink:href='img/icons.svg#icon-share-2')  
+svg 
+  use(xlink:href='img/icons.svg#icon-shield') 
+svg 
+  use(xlink:href='img/icons.svg#icon-shield-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-shopping-bag') 
+svg 
+  use(xlink:href='img/icons.svg#icon-shopping-cart') 
+svg 
+  use(xlink:href='img/icons.svg#icon-shuffle')  
+svg 
+  use(xlink:href='img/icons.svg#icon-sidebar')  
+svg 
+  use(xlink:href='img/icons.svg#icon-skip-back') 
+svg 
+  use(xlink:href='img/icons.svg#icon-skip-forward') 
+svg 
+  use(xlink:href='img/icons.svg#icon-slack') 
+svg 
+  use(xlink:href='img/icons.svg#icon-slash') 
+svg 
+  use(xlink:href='img/icons.svg#icon-sliders')  
+svg 
+  use(xlink:href='img/icons.svg#icon-smartphone') 
+svg 
+  use(xlink:href='img/icons.svg#icon-speaker')  
+svg 
+  use(xlink:href='img/icons.svg#icon-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-star') 
+svg 
+  use(xlink:href='img/icons.svg#icon-stop-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-sun') 
+svg 
+  use(xlink:href='img/icons.svg#icon-sunrise')  
+svg 
+  use(xlink:href='img/icons.svg#icon-sunset') 
+svg 
+  use(xlink:href='img/icons.svg#icon-tablet') 
+svg 
+  use(xlink:href='img/icons.svg#icon-tag') 
+svg 
+  use(xlink:href='img/icons.svg#icon-target') 
+svg 
+  use(xlink:href='img/icons.svg#icon-terminal') 
+svg 
+  use(xlink:href='img/icons.svg#icon-thermometer') 
+svg 
+  use(xlink:href='img/icons.svg#icon-thumbs-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-thumbs-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-toggle-left') 
+svg 
+  use(xlink:href='img/icons.svg#icon-toggle-right') 
+svg 
+  use(xlink:href='img/icons.svg#icon-trash') 
+svg 
+  use(xlink:href='img/icons.svg#icon-trash-2')  
+svg 
+  use(xlink:href='img/icons.svg#icon-trending-down') 
+svg 
+  use(xlink:href='img/icons.svg#icon-trending-up') 
+svg 
+  use(xlink:href='img/icons.svg#icon-triangle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-truck') 
+svg 
+  use(xlink:href='img/icons.svg#icon-tv') 
+
+svg 
+  use(xlink:href='img/icons.svg#icon-twitter')  
+svg 
+  use(xlink:href='img/icons.svg#icon-type') 
+svg 
+  use(xlink:href='img/icons.svg#icon-umbrella') 
+svg 
+  use(xlink:href='img/icons.svg#icon-underline') 
+svg 
+  use(xlink:href='img/icons.svg#icon-unlock') 
+svg 
+  use(xlink:href='img/icons.svg#icon-upload') 
+svg 
+  use(xlink:href='img/icons.svg#icon-upload-cloud') 
+svg 
+  use(xlink:href='img/icons.svg#icon-user') 
+svg 
+  use(xlink:href='img/icons.svg#icon-user-check') 
+svg 
+  use(xlink:href='img/icons.svg#icon-user-minus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-user-plus') 
+svg 
+  use(xlink:href='img/icons.svg#icon-user-x') 
+svg 
+  use(xlink:href='img/icons.svg#icon-users') 
+svg 
+  use(xlink:href='img/icons.svg#icon-video') 
+svg 
+  use(xlink:href='img/icons.svg#icon-video-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-voicemail') 
+svg 
+  use(xlink:href='img/icons.svg#icon-volume') 
+svg 
+  use(xlink:href='img/icons.svg#icon-volume-1') 
+svg 
+  use(xlink:href='img/icons.svg#icon-volume-2') 
+svg 
+  use(xlink:href='img/icons.svg#icon-volume-x') 
+svg 
+  use(xlink:href='img/icons.svg#icon-watch')
+svg 
+  use(xlink:href='img/icons.svg#icon-wifi') 
+svg 
+  use(xlink:href='img/icons.svg#icon-wifi-off') 
+svg 
+  use(xlink:href='img/icons.svg#icon-wind')
+svg 
+  use(xlink:href='img/icons.svg#icon-x')
+svg 
+  use(xlink:href='img/icons.svg#icon-x-circle') 
+svg 
+  use(xlink:href='img/icons.svg#icon-x-square') 
+svg 
+  use(xlink:href='img/icons.svg#icon-youtube')  
+svg 
+  use(xlink:href='img/icons.svg#icon-zap') 
+svg 
+  use(xlink:href='img/icons.svg#icon-zap-off')  
+svg 
+  use(xlink:href='img/icons.svg#icon-zoom-in')  
+svg 
+  use(xlink:href='img/icons.svg#icon-zoom-out') 
