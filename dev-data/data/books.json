@@ -1,0 +1,218 @@
+[
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["book-2-1.jpg", "book-2-2.jpg", "book-2-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Gone with the wind",
+    "quantity": 7,
+    "availableFor": "sell",
+    "author": "Peter Hanscombe",
+    "condition": "brand new",
+
+    "price": 497,
+    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "book-2-cover.jpg",
+    "endUser": "5c8a24a02f8fb814b56fa193"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["book-1-1.jpg", "book-1-2.jpg", "book-1-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Machine Learning with python",
+    "quantity": 5,
+    "availableFor": "exchange",
+    "author": "J.P Morgan",
+    "condition": "brand new",
+
+    "price": 397,
+    "summary": "Breathtaking hike through the Canadian Banff National Park",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "book-1-cover.jpg",
+    "endUser": "5c8a24a02f8fb814b56fa193"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["book-3-1.jpg", "book-3-2.jpg", "book-3-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Japanese candlestick charting techniques",
+    "quantity": 4,
+    "availableFor": "rent",
+    "author": "Shuzain Chakapai",
+    "condition": "brand new",
+
+    "price": 997,
+    "summary": "Exciting adventure in the snow with snowboarding and skiing",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "book-3-cover.jpg",
+    "endUser": "5c8a24a02f8fb814b56fa193"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["book-5-1.jpg", "book-5-2.jpg", "book-5-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "C++ Programming Language",
+    "quantity": 10,
+    "availableFor": "sell",
+    "author": "Dorothy R. Kirk",
+    "condition": "brand new",
+
+    "price": 1497,
+    "summary": "Breathing in Nature in America's most spectacular National Parks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "book-5-cover.jpg",
+    "endUser": "5c8a24a02f8fb814b56fa193"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["book-4-1.jpg", "book-4-2.jpg", "book-4-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Seven Wonders of World",
+    "quantity": 9,
+    "availableFor": "rent",
+    "author": "Ashton Turner",
+    "condition": "brand new",
+
+    "price": 1197,
+    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "imageCover": "book-4-cover.jpg",
+    "endUser": "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["book-6-1.jpg", "book-6-2.jpg", "book-6-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "PHP, my sql and javaScript",
+    "quantity": 14,
+    "availableFor": "exchange",
+    "author": "David P. Johnson",
+    "condition": "brand new",
+
+    "price": 2997,
+    "summary": "Surfing, skating, parajumping, rock climbing and more, all in one book",
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "book-6-cover.jpg",
+    "endUser": "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["book-8-1.jpg", "book-8-2.jpg", "book-8-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "History of Pakistan",
+    "quantity": 9,
+    "availableFor": "sell",
+    "author": "Dr. Faizan Chaudhry",
+    "condition": "brand new",
+
+    "price": 2997,
+    "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "book-8-cover.jpg",
+    "endUser": "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["book-9-1.jpg", "book-9-2.jpg", "book-9-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "The power of failure",
+    "quantity": 3,
+    "availableFor": "rent",
+    "author": "Charles C. MANZ",
+    "condition": "brand new",
+
+    "price": 1497,
+    "summary": "Enjoy the Northern Lights in one of the best places in the world",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "book-9-cover.jpg",
+    "endUser": "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["book-7-1.jpg", "book-7-2.jpg", "book-7-3.jpg"],
+
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Bal e Jibrael",
+    "quantity": 5,
+    "availableFor": "exchange",
+    "author": "Illama Muhammad Iqbal",
+    "condition": "brand new",
+
+    "price": 1997,
+    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "book-7-cover.jpg",
+    "endUser": "5c8a23c82f8fb814b56fa18d"
+  }
+]
